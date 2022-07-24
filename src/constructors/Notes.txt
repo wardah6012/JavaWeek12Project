@@ -1,0 +1,3 @@
+Constructors: special methods, it is a must for a class, might be used to initialize fields
+
+object: new ClassName() ----> we are calling the constructor
